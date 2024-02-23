@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "qFoLy1MFyR77pTJ8ma7GxfokRNwEGTdYJT7bamwU4kI=",
+  "Source": "FullStackApp.Server",
+  "BasePath": "_content/FullStackApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\fullstackapp.client.esproj",
+      "Version": 2,
+      "Source": "fullstackapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
