@@ -4,8 +4,9 @@
     {
         public int Id { get; set; }
 
+        public required string CarImage { get; set; }
+
         public required string CarName { get; set; }
 
-        public required string CarTitle { get; set; }
     }
 }
