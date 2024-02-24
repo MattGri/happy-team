@@ -1,3 +1,6 @@
+using FullStackApp.Server.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,6 +19,11 @@ builder.Services.AddCors(options =>
                     .AllowAnyMethod()
                     .AllowAnyHeader();
             });
+});
+
+builder.Services.AddDbContext<UserContext>(options =>
+{
+    options.UseSqlServer("Server=LAPTOP-A5R37G6E;Database=tesla;Trusted_Connection=True;TrustServerCertificate=True;");
 });
 
 var app = builder.Build();
