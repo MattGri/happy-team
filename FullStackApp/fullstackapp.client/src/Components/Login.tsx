@@ -8,15 +8,33 @@ const Login = () => {
 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [error, setError] = useState('');
 
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
+
+        if (email === '' || password === '') {
+            setError('All fields are required');
+
+            setTimeout(() => {
+                return setError('');
+            }, 2000);
+            return;
+        }
+        else if (password.length < 1) {
+            setError('Password must be at least 1 characters long');
+            setTimeout(() => {
+                return setError('');
+            }, 2000);
+            return;
+        }
 
         axios.post("https://localhost:7207/Login", {
             email,
             password
         }).then((response) => {
             console.log(response);
+            sessionStorage.setItem('email', email);
             setEmail('');
             setPassword('');
             navigate('/')
@@ -39,6 +57,7 @@ const Login = () => {
                 </div>
                 <button type="submit" className="submitBtn">Login</button>
             </form>
+            <p className="error">{error}</p>
         </div>
     );
 };

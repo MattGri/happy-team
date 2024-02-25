@@ -8,11 +8,28 @@ const Register = () => {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
+    const [error, setError] = useState('');
 
     const navigate = useNavigate();
 
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
+
+        if (name === '' || email === '' || password === '') {
+            setError('All fields are required');
+
+            setTimeout(() => {
+                return setError('');
+            }, 2000);
+            return;
+        }
+        else if (password.length < 6) {
+            setError('Password must be at least 6 characters long');
+            setTimeout(() => {
+                return setError('');
+            }, 2000);
+            return;
+        } 
 
         axios.post("https://localhost:7207/Register", {
             name,
@@ -47,6 +64,7 @@ const Register = () => {
                 </div>
                 <button type="submit" className="submitBtn">Register</button>
             </form>
+            <p className="error">{error}</p>
         </div>
     );
 };
