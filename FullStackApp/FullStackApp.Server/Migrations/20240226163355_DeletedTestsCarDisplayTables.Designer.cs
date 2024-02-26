@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FullStackApp.Server.Migrations
 {
     [DbContext(typeof(UserContext))]
-    [Migration("20240224094017_login")]
-    partial class login
+    [Migration("20240226163355_DeletedTestsCarDisplayTables")]
+    partial class DeletedTestsCarDisplayTables
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,7 +24,7 @@ namespace FullStackApp.Server.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("FullStackApp.Server.Models.LoginModel", b =>
+            modelBuilder.Entity("FullStackApp.Server.Models.CarModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -32,17 +32,58 @@ namespace FullStackApp.Server.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Email")
+                    b.Property<int>("CarAmount")
+                        .HasColumnType("int");
+
+                    b.Property<string>("CarImage")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Password")
+                    b.Property<string>("CarLocation")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("CarName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CarPrice")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.ToTable("LoginModels");
+                    b.ToTable("CarModels");
+                });
+
+            modelBuilder.Entity("FullStackApp.Server.Models.CarReservationModel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("CarPlace")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CarPrices")
+                        .HasColumnType("int");
+
+                    b.Property<string>("EndDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StartDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("CarReservationModels");
                 });
 
             modelBuilder.Entity("FullStackApp.Server.Models.RegisterModel", b =>
@@ -56,6 +97,9 @@ namespace FullStackApp.Server.Migrations
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsLoggedIn")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()

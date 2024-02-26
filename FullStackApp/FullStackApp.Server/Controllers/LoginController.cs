@@ -32,7 +32,9 @@ namespace FullStackApp.Server.Controllers
 
             _context.SaveChanges();
 
-            return Ok();
+            //return Ok();
+
+            return Ok(new { UserId = user.Id });
         }
     }
 }

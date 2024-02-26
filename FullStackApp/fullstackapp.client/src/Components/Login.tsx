@@ -34,7 +34,10 @@ const Login = () => {
             password
         }).then((response) => {
             console.log(response);
+            const userId = response.data.userId;
             sessionStorage.setItem('email', email);
+            sessionStorage.setItem('userId', userId);
+            console.log(userId);
             setEmail('');
             setPassword('');
             navigate('/')

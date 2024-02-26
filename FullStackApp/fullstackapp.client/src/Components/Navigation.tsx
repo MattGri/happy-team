@@ -16,6 +16,7 @@ const Navigation = () => {
 
     const handleLogout = () => {
         sessionStorage.removeItem('email');
+        sessionStorage.removeItem('userId');
     };
 
     return (
