@@ -26,7 +26,6 @@ const CarReservationForm = ({ id, carImage, carName, carPrice, carLocation }: Ca
     const [endDate, setEndDate] = useState('');
     const [userId, setUserId] = useState<number | null | string>(null);
     const [carPlace, setCarPlace] = useState(carLocation[0] || '');
-    const [carAmount, setCarAmount] = useState(10);
     const [carDay, setCarDay] = useState(1);
     const [error, setError] = useState('');
 
@@ -80,16 +79,6 @@ const CarReservationForm = ({ id, carImage, carName, carPrice, carLocation }: Ca
         }).catch((error) => {
             console.log(error);
         });
-
-        axios.patch(`https://localhost:7207/Car/${id}`, carAmount)
-            .then((response) => {
-                console.log(setCarAmount(response.data));
-                setCarAmount(carAmount);
-
-            }).catch((error) => {
-                console.log(error);
-            });
-
     }
 
     return (

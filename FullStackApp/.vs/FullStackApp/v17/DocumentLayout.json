@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\styles\\navigation.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
-      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\styles\\navigation.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|solutionrelative:fullstackapp.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\components\\navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\components\\navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.server\\controllers\\carreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|solutionrelative:fullstackapp.server\\controllers\\carreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\components\\carreservationform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\components\\carreservationform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -17,6 +29,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\reservations.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\pages\\reservations.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\components\\navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\components\\navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\styles\\navigation.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\styles\\navigation.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\styles\\carreservationform.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
@@ -55,32 +75,12 @@
       "RelativeMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|solutionrelative:fullstackapp.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.server\\controllers\\carreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|solutionrelative:fullstackapp.server\\controllers\\carreservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|solutionrelative:fullstackapp.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.client\\src\\components\\carreservationform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D128A34A-9A01-4DD4-BA8A-C3A2D49B9C85}|fullstackapp.client\\fullstackapp.client.esproj|solutionrelative:fullstackapp.client\\src\\components\\carreservationform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BB621DD-EC74-4A7D-A9BD-ABE87D045BF9}|FullStackApp.Server\\FullStackApp.Server.csproj|c:\\users\\mateu\\onedrive\\pulpit\\happy-team\\fullstackapp\\fullstackapp.server\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,76 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "variables.scss",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\variables.scss",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\variables.scss",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\variables.scss",
-              "RelativeToolTip": "fullstackapp.client\\src\\styles\\variables.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-02-27T19:13:46.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Program.cs",
-              "RelativeDocumentMoniker": "FullStackApp.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Program.cs",
-              "RelativeToolTip": "FullStackApp.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:11:45.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "authorization.scss",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\authorization.scss",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\authorization.scss",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\authorization.scss",
-              "RelativeToolTip": "fullstackapp.client\\src\\styles\\authorization.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-02-27T17:52:21.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "FullStackApp.Server\\Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:59:47.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "reservations.scss",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\reservations.scss",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\reservations.scss",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\reservations.scss",
-              "RelativeToolTip": "fullstackapp.client\\src\\styles\\reservations.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-02-27T17:52:25.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "navigation.scss",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\navigation.scss",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\navigation.scss",
@@ -188,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "home.scss",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\home.scss",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\home.scss",
@@ -196,12 +131,11 @@
               "RelativeToolTip": "fullstackapp.client\\src\\styles\\home.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-02-27T17:52:26.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T17:52:26.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "carReservationForm.scss",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\carReservationForm.scss",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\carReservationForm.scss",
@@ -209,38 +143,37 @@
               "RelativeToolTip": "fullstackapp.client\\src\\styles\\carReservationForm.scss",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-02-27T17:52:27.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T17:52:27.116Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Reservations.tsx",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Reservations.tsx",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Reservations.tsx",
               "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Reservations.tsx",
               "RelativeToolTip": "fullstackapp.client\\src\\pages\\Reservations.tsx",
-              "ViewState": "AQIAABoAAAAAAAAAAAAQwC8AAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-02-27T17:52:20.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Register.tsx",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Register.tsx",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Register.tsx",
               "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Register.tsx",
               "RelativeToolTip": "fullstackapp.client\\src\\pages\\Register.tsx",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-02-27T17:52:19.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Navigation.tsx",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\Components\\Navigation.tsx",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\Components\\Navigation.tsx",
@@ -253,7 +186,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarReservationForm.tsx",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
+              "RelativeToolTip": "fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T17:52:15.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "fullstackapp.client\\src\\pages\\Login.tsx",
+              "ViewState": "AQIAAAIAAAAAAAAAAADgvyoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T17:52:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Home.tsx",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Home.tsx",
+              "RelativeToolTip": "fullstackapp.client\\src\\pages\\Home.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T17:52:17.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarReservationController.cs",
+              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\CarReservationController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarReservationController.cs",
+              "RelativeToolTip": "FullStackApp.Server\\Controllers\\CarReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:59:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarController.cs",
+              "RelativeToolTip": "FullStackApp.Server\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:52:43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "reservations.scss",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\reservations.scss",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\reservations.scss",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\reservations.scss",
+              "RelativeToolTip": "fullstackapp.client\\src\\styles\\reservations.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-02-27T17:52:25.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "FullStackApp.Server\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:59:47.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "authorization.scss",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\authorization.scss",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\authorization.scss",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\authorization.scss",
+              "RelativeToolTip": "fullstackapp.client\\src\\styles\\authorization.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-02-27T17:52:21.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FullStackApp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Program.cs",
+              "RelativeToolTip": "FullStackApp.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "variables.scss",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\variables.scss",
+              "RelativeDocumentMoniker": "fullstackapp.client\\src\\styles\\variables.scss",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\styles\\variables.scss",
+              "RelativeToolTip": "fullstackapp.client\\src\\styles\\variables.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-02-27T19:13:46.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\LoginController.cs",
@@ -261,38 +319,11 @@
               "RelativeToolTip": "FullStackApp.Server\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:59:45.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T17:59:45.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CarReservationController.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarReservationController.cs",
-              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\CarReservationController.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarReservationController.cs",
-              "RelativeToolTip": "FullStackApp.Server\\Controllers\\CarReservationController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:59:43.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "FullStackApp.Server\\Controllers\\CarController.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Controllers\\CarController.cs",
-              "RelativeToolTip": "FullStackApp.Server\\Controllers\\CarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T17:52:43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\App.css",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\App.css",
@@ -300,12 +331,11 @@
               "RelativeToolTip": "fullstackapp.client\\src\\App.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-02-27T17:52:24.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T17:52:24.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "fullstackapp.client\\src\\App.tsx",
@@ -313,25 +343,11 @@
               "RelativeToolTip": "fullstackapp.client\\src\\App.tsx",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-02-27T17:52:23.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T17:52:23.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.tsx",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Login.tsx",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Login.tsx",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Login.tsx",
-              "RelativeToolTip": "fullstackapp.client\\src\\pages\\Login.tsx",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-02-27T17:52:18.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\FullStackApp.Server\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FullStackApp.Server\\Data\\AppDbContext.cs",
@@ -339,34 +355,7 @@
               "RelativeToolTip": "FullStackApp.Server\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:06:45.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Home.tsx",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Home.tsx",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\pages\\Home.tsx",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\pages\\Home.tsx",
-              "RelativeToolTip": "fullstackapp.client\\src\\pages\\Home.tsx",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-02-27T17:52:17.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CarReservationForm.tsx",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
-              "RelativeDocumentMoniker": "fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Pulpit\\happy-team\\FullStackApp\\fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
-              "RelativeToolTip": "fullstackapp.client\\src\\Components\\CarReservationForm.tsx",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-02-27T17:52:15.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:06:45.486Z"
             },
             {
               "$type": "Document",
