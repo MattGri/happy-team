@@ -31,6 +31,9 @@ const Navigation = () => {
                             <p>Welcome {email}</p>
                         </li>
                         <li>
+                            <Link to="/reservations" className="navigationLink">Reservations</Link>
+                        </li>
+                        <li>
                             <Link to="/" className="navigationLink" onClick={handleLogout}>Logout</Link>
                         </li>
                     </>

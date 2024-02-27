@@ -11,5 +11,6 @@
         public required int CarPrice { get; set; }
 
         public required List<string> CarLocation { get; set; }
+
     }
 }

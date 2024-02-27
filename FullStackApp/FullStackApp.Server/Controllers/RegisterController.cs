@@ -20,11 +20,6 @@ namespace FullStackApp.Server.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] RegisterModel model)
         {
-
-
-            model.IsLoggedIn = false;
-
-
             _context.RegisterModels.Add(model);
             _context.SaveChanges();
             return Ok(model);

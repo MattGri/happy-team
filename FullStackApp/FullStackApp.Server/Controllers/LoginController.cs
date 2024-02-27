@@ -28,12 +28,7 @@ namespace FullStackApp.Server.Controllers
                 return NotFound("User not found");
             }
 
-            user.IsLoggedIn = true;
-
             _context.SaveChanges();
-
-            //return Ok();
-
             return Ok(new { UserId = user.Id });
         }
     }

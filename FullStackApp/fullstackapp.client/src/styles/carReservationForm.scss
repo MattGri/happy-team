@@ -1,0 +1,64 @@
+.carTitle {
+    margin-top: 20px;
+}
+
+.carImage {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.selectLocation {
+    color: #000;
+    border: none;
+    display: block;
+    margin: 10px auto 0px auto;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+
+    .option {
+        color: #000;
+    }
+}
+
+.label {
+    display: block;
+    margin: 5px 0px;
+    font-weight: bold;
+}
+
+.dateInput {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #000;
+}
+
+.reservationBtn {
+    cursor: pointer;
+    color: #000;
+    border: none;
+    display: block;
+    margin: 10px auto 0px auto;
+    padding: 10px 20px;
+    background-color: #f4f4f4;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+.reservationBtn:hover {
+    background-color: #e0e0e0;
+    transition: 0.5s;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
