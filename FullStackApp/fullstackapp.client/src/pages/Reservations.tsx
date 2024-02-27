@@ -43,7 +43,7 @@ const Reservations = () => {
                     carReservations.map(({ id, carNames, startDate, endDate, carPrices, carImages, carPlace }: CarReservation) => (
                         <div key={id}>
                             <h3 className="carTitle">{carNames}</h3>
-                            <img src={carImages} alt={carNames} className="carImage"/>
+                            <img src={carImages} alt={carNames} className="carImage" />
                             <div className="wrapper">
                                 <label>Price</label>
                                 <p>{carPrices}</p>

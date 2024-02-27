@@ -1,3 +1,5 @@
+@import 'variables.scss';
+
 .carTitle {
     margin-top: 20px;
 }
@@ -20,7 +22,7 @@
     border-radius: 5px;
 
     .option {
-        color: #000;
+        color: $blackColor;
     }
 }
 
@@ -46,7 +48,7 @@
     display: block;
     margin: 10px auto 0px auto;
     padding: 10px 20px;
-    background-color: #f4f4f4;
+    background-color: $backgroundColor;
     font-size: 16px;
     font-weight: 600;
     transition: 0.5s;

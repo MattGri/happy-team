@@ -31,7 +31,6 @@ const CarReservationForm = ({ id, carImage, carName, carPrice, carLocation }: Ca
     const [error, setError] = useState('');
 
     const date = moment();
-
     const currentYear = date.format('YYYY');
     const currentMonth = date.format('MM');
     const currentDay = date.format('DD');
@@ -108,7 +107,7 @@ const CarReservationForm = ({ id, carImage, carName, carPrice, carLocation }: Ca
                     >
                         {
                             carLocation.map((item, index) => (
-                                <option key={index} 
+                                <option key={index}
                                     value={item} className="option"
                                 >
                                     {item}
@@ -119,7 +118,7 @@ const CarReservationForm = ({ id, carImage, carName, carPrice, carLocation }: Ca
                     <label className="label">Start Date</label>
                     <input type="date" min={currentDate} value={startDate} onChange={(e) => setStartDate(e.target.value)} className="dateInput" />
                     <label className="label">End Date</label>
-                <input type="date" min={currentDate} value={endDate} onChange={(e) => setEndDate(e.target.value)} className="dateInput" />
+                    <input type="date" min={currentDate} value={endDate} onChange={(e) => setEndDate(e.target.value)} className="dateInput" />
                     <button type="submit" onClick={sentData} className="reservationBtn">Reserve</button>
                 </>
             }

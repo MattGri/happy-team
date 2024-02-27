@@ -18,7 +18,6 @@ const Home = () => {
         axios.get("https://localhost:7207/Car")
             .then(response => {
                 setCars(response.data);
-                console.log(response.data);
             })
             .catch(error => console.error('Error fetching cars:', error));
     }, []);

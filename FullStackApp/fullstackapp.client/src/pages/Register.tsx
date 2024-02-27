@@ -29,7 +29,7 @@ const Register = () => {
                 return setError('');
             }, 2000);
             return;
-        } 
+        }
 
         axios.post("https://localhost:7207/Register", {
             email,

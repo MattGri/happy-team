@@ -6,7 +6,6 @@ import '../styles/navigation.scss';
 
 const Navigation = () => {
 
-
     const [email, setEmail] = useState('');
     const location = useLocation();
 
