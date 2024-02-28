@@ -20,6 +20,17 @@ namespace FullStackApp.Server.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] RegisterModel model)
         {
+
+            var userEmail = model.Email;
+
+            var existingUser = _context.RegisterModels.FirstOrDefault(x => x.Email == userEmail);
+
+            if (existingUser != null)
+            {
+
+                return Conflict("User using that email already exists");
+            }
+
             _context.RegisterModels.Add(model);
             _context.SaveChanges();
             return Ok(model);

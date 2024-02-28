@@ -41,6 +41,12 @@ const Register = () => {
             navigate('/login');
         }).catch((error) => {
             console.log(error);
+
+            setError(error.response.data);
+
+            setTimeout(() => {
+                return setError('');
+            }, 2000);
         });
     }
 

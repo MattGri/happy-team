@@ -26,5 +26,6 @@ namespace FullStackApp.Server.Controllers
             return _context.CarModels.ToList();
         }
 
+
     }
 }
